@@ -12,5 +12,4 @@ A simple Next.js project that displays user data and allows exporting to Excel.
 3. npm install
 4. npm run dev
 "# user-management-table" 
-"# user-management-table" 
-"# user-management-table" 
+
